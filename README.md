@@ -3,6 +3,7 @@ Learn JavaScript with sample programming
 
 ## Quick web tools
 * https://jsfiddle.net
+* http://fiddlesalad.com/html/
 * http://www.es6fiddle.net/
 
 ## Essential browser links
