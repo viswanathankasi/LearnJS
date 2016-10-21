@@ -1,7 +1,7 @@
 # LearnJS
 Learn JavaScript with sample programming
 
-## Quick web tools
+## Quick web code editors
 * https://jsfiddle.net
 * http://fiddlesalad.com/html/
 * http://www.es6fiddle.net/
