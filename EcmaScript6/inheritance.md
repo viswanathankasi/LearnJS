@@ -14,7 +14,7 @@ class b extends a {
 class cextends b {
   constructor() {
     super();
-    this.name;
+    this.name = 'change the name';
   }  
 }
 
