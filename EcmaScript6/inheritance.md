@@ -1,14 +1,21 @@
 ```js
-class b {
+class a {
   constructor(name) {
+     this.name = name;
   }
 }
 
-class a extends b {
-
+class b extends a {
   constructor() {
     super("some value");
-  }
-  
+  }  
 }
+
+class cextends b {
+  constructor() {
+    super();
+    this.name;
+  }  
+}
+
 ```
