@@ -21,4 +21,5 @@ export class c extends b {
 export function generate() {
   return new c();
 }
+
 ```
