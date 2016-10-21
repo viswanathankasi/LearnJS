@@ -11,11 +11,14 @@ class b extends a {
   }  
 }
 
-class cextends b {
+export class c extends b {
   constructor() {
     super();
     this.name = 'change the name';
   }  
 }
 
+export function generate() {
+  return new c();
+}
 ```
