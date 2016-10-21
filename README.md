@@ -1,6 +1,10 @@
 # LearnJS
 Learn JavaScript with sample programming
 
+## Quick web tools
+* https://jsfiddle.net
+* http://www.es6fiddle.net/
+
 ## Essential browser links
 * http://caniuse.com/ - find what's supported in which browser
 * https://www.browserling.com - test code in different browsers
