@@ -1,3 +1,9 @@
 ```js
-Class a extemds b
+class a extends b {
+
+  constructor() {
+    super("some value");
+  }
+  
+}
 ```
